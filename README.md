@@ -15,4 +15,4 @@ A pesar de que se muestre el caso global (menos en el 5.), estos programas valen
 5-Muestra el procedimiento para conseguir el 'indice de reciclaje regional'.
 
 
-En la carpeta TFG se muestran todos los datos obtnenidos, ubdivididos en las regiones analizadas. Dentro de la carpeta 'graficas para el tfg' se muestran todos los mapas y graficas obtenidos durante el proyecto.
+En la carpeta TFG se muestran todos los datos obtenidos, subdivididos en las regiones analizadas. Dentro de la carpeta 'graficas para el tfg' se muestran todos los mapas y graficas obtenidos durante el proyecto.
